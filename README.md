@@ -1,7 +1,6 @@
 # me
 
 For new project:
-git add
-git commit
-git push
+git add, git commit, git push.
+
 
